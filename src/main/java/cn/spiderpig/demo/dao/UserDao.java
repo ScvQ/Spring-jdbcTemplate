@@ -1,0 +1,9 @@
+package cn.spiderpig.demo.dao;
+
+import java.util.List;
+
+public interface UserDao {
+    
+    List getAll();
+
+}
