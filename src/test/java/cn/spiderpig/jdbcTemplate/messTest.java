@@ -14,7 +14,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import cn.spiderpig.demo.dao.UserDao;
 import cn.spiderpig.demo.entity.User;
 
-public class messTest {
+public class MessTest {
 
     private ApplicationContext ctx = null;
     private UserDao userDao = null;
