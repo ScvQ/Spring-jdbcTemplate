@@ -20,5 +20,6 @@
     <bean id="userDao" class="cn.spiderpig.demo.dao.impl.UserDaoImpl">
         <property name="jdbcTemplate" ref="jdbcTemplate" />
     </bean>
-
+    
+    <bean></bean>
 </beans>
